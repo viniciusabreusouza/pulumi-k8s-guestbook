@@ -1,0 +1,3 @@
+config:
+  k8s-guestbook:isMinikube: "true"
+  k8s-guestbook:useLoadBalancer: "false"
