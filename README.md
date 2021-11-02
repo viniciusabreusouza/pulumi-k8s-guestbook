@@ -94,7 +94,7 @@ Resources:
 Duration: 44s
 ```
 
-#### Viewing the results
+#### Checking the results
 
 Inspect your cluster to validate the Guestbook App services:
 ```sh
