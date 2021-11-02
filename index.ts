@@ -1,5 +1,5 @@
 import * as pulumi from "@pulumi/pulumi";
-import * as k8sjs from "./config/k8sconfig";
+import * as k8sjs from "./config/serviceDeployment";
 
 let stack = pulumi.getStack();
 let project = pulumi.getProject();
